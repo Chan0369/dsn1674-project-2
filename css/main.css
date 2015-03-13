@@ -16,3 +16,56 @@ header {
   margin: 0;
   padding: 0;
 }
+
+.fig-medallion {
+  margin: 0 auto;
+  width: 33.33%;
+
+}
+
+h1 {
+  color: white;
+  margin: 0;
+  font-size: 2em;
+  position: absolute;
+  top: 4rem;
+  left: 10rem;
+}
+
+.char {
+  font-size: 5rem;
+  display: block;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  overflow: hidden;
+}
+
+nav ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  border: 1px solid #963e30;
+  float: left;
+  width:33.33%;
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  background-color: black;
+  padding: 0.5rem;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #a93f35;
+}
