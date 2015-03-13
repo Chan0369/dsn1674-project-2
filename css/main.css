@@ -10,3 +10,9 @@ body {
   font-family: 'Noto Sans', sans-serif;
   margin: 0em;
 }
+
+header {
+  background-color: #e7001d;
+  margin: 0;
+  padding: 0;
+}
