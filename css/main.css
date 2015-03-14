@@ -167,3 +167,13 @@ figcaption {
   text-align: center;
   margin-top: 0;
 }
+
+.rooster-symbol {
+  width: 50%;
+  float: left;
+}
+
+.img-rooster {
+  width: 50%;
+  float: right;
+}
