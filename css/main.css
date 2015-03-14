@@ -198,3 +198,30 @@ figcaption {
 .rooster-figcaption {
   color: white;
 }
+
+
+
+
+
+.o {
+  background-color: #e4c22a;
+  padding: 0em 1em 1em 1em;
+}
+
+.ox {
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.ox-symbol {
+  width: 50%;
+  float: right;
+}
+
+.img-ox {
+  width: 50%;
+  float: left;
+}
