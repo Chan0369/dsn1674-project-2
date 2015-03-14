@@ -28,7 +28,7 @@ h1 {
   margin: 0;
   font-size: 2em;
   position: absolute;
-  top: 4rem;
+  top: 3rem;
   left: 0rem;
   text-align: center;
   width: 100%;
@@ -70,4 +70,22 @@ nav a {
 
 nav a:hover {
   background-color: #a93f35;
+}
+
+.bannerwrap {
+  position: relative;
+}
+
+.banner {
+  width: 100%;
+  margin: 0;
+  display: block;
+}
+
+h2 {
+  color: white;
+  position: absolute;
+  bottom: 1em;
+  font-style: italic;
+  text-align: center;
 }
