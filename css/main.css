@@ -88,4 +88,10 @@ h2 {
   bottom: 1em;
   font-style: italic;
   text-align: center;
+  width: 100%;
+}
+
+p {
+  padding: 1em;
+  margin: 0;
 }
