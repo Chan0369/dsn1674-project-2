@@ -225,3 +225,12 @@ figcaption {
   width: 50%;
   float: left;
 }
+
+footer {
+  background-color: #222;
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
