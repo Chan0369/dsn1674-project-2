@@ -19,23 +19,23 @@ header {
 
 .fig-medallion {
   margin: 0 auto;
-  width: 15em;
-
+  width: 10em;
+  padding:1em;
 }
 
 h1 {
   color: white;
   margin: 0;
-  font-size: 2em;
+  font-size: 1em;
   position: absolute;
-  top: 3rem;
+  top: 1rem;
   left: 0rem;
   text-align: center;
   width: 100%;
 }
 
 .char {
-  font-size: 5rem;
+  font-size: 4rem;
   display: block;
   text-align: center;
 }
@@ -85,7 +85,7 @@ nav a:hover {
 h2 {
   color: white;
   position: absolute;
-  bottom: 1em;
+  bottom: 0;
   font-style: italic;
   text-align: center;
   width: 100%;
