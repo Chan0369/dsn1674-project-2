@@ -95,3 +95,23 @@ p {
   padding: 1em;
   margin: 0;
 }
+
+.d {
+  background-color: #e4c22a;
+}
+
+.dragon {
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+.dragon-symbol {
+  width: 50%;
+  float: left;
+}
+
+.img-dragon {
+  width: 50%;
+  float: right;
+}
