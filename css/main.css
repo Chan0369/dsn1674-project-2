@@ -69,7 +69,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #a93f35;
+  background-color: #e4c22a;
 }
 
 .bannerwrap {
@@ -98,12 +98,14 @@ p {
 
 .d {
   background-color: #e4c22a;
+  padding: 1em;
 }
 
 .dragon {
   padding: 1em;
   width: 100%;
   text-align: center;
+  margin-top: 0;
 }
 
 .dragon-symbol {
@@ -116,6 +118,33 @@ p {
   float: right;
 }
 
+figcaption {
+  text-align: center;
+}
+
 .g {
   background-color: #222222;
+  padding: 1em;
+}
+
+.goat {
+  color: white;
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  margin-top: 0;
+}
+
+.goat-symbol {
+  width: 50%;
+  float: right;
+}
+
+.img-goat {
+  width: 50%;
+  float: left;
+}
+
+.goat-figcaption {
+  color: white;
 }
