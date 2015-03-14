@@ -20,7 +20,7 @@ header {
 .fig-medallion {
   margin: 0 auto;
   width: 10em;
-  padding:1em;
+  padding: 1em 1em 0.5em 1em;
 }
 
 h1 {
@@ -72,6 +72,10 @@ nav a:hover {
   background-color: #e4c22a;
 }
 
+
+
+
+
 .bannerwrap {
   position: relative;
 }
@@ -95,6 +99,10 @@ p {
   padding: 1em;
   margin: 0;
 }
+
+
+
+
 
 .d {
   background-color: #e4c22a;
@@ -127,6 +135,10 @@ figcaption {
   text-align: center;
 }
 
+
+
+
+
 .g {
   background-color: #222222;
   padding: 0em 1em 1em 1em;
@@ -155,9 +167,13 @@ figcaption {
   color: white;
 }
 
+
+
+
+
 .r {
   background-color: #bc0017;
-  padding: 1em;
+  padding: 0em 1em 1em 1em;
 }
 
 .rooster {
@@ -166,6 +182,7 @@ figcaption {
   width: 100%;
   text-align: center;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .rooster-symbol {
@@ -176,4 +193,8 @@ figcaption {
 .img-rooster {
   width: 50%;
   float: right;
+}
+
+.rooster-figcaption {
+  color: white;
 }
