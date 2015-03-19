@@ -17,6 +17,10 @@ header {
   padding: 0;
 }
 
+h4 {
+  margin: 0;
+}
+
 .fig-medallion {
   margin: 0 auto;
   width: 10em;
@@ -32,12 +36,14 @@ h1 {
   left: 0rem;
   text-align: center;
   width: 100%;
+  text-shadow: #222 2px 4px 3px;
 }
 
 .char {
   font-size: 4rem;
   display: block;
   text-align: center;
+  text-shadow: #222 2px 4px 3px;
 }
 
 nav {
@@ -49,7 +55,7 @@ nav ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: left;
 }
 
 nav li {
@@ -65,6 +71,7 @@ nav a {
   color: #fff;
   background-color: #222;
   padding: 0.5rem;
+  padding-left: 1em;
   display: block;
 }
 
@@ -233,4 +240,8 @@ footer {
   text-align: center;
   color: white;
   text-decoration: underline;
+}
+
+a {
+  color: white;
 }
